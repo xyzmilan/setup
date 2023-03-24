@@ -1,7 +1,3 @@
-update && pkg upgrade
-python
-git
-python2
 colorama
 lolcat
 bs4
