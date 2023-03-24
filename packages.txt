@@ -1,4 +1,4 @@
-update && pkg upgrade
+update && upgrade
 python
 git
 python2
