@@ -1,0 +1,4 @@
+update && pkg upgrade
+python
+git
+python2
