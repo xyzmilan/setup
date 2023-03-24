@@ -1,0 +1,5 @@
+colorama
+lolcat
+bs4
+rich
+utures 
